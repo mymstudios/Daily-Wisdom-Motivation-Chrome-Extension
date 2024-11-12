@@ -7,4 +7,4 @@ Use this as a boilerplate to start developing a Chrome extension.
 
 You can use the JSON file ("quotes.js") to add your own stoic wisdom and motivational quotes.
 
-<img src="./JsonPreview.png"/>
+<img src="./JsonPreview.png" width="50%" height="50%"/>
